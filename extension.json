@@ -1,0 +1,7 @@
+﻿{
+  "Name": "AnwesenheitsListeErweiterung",
+  "Vendor": "PROFFIX",
+  "Version": "1.0.0",
+  "Webservice": "AnwesenheitsListeErweiterung.exe",
+  "Events": {}
+}
